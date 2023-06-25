@@ -1,0 +1,146 @@
+[
+  {
+    "id": "7181cec4-cf43-5936-a75b-c1d5f8a7e00e",
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "publishingDate": "1960-07-11",
+    "rating": 4.5,
+    "image": "https://covers.openlibrary.org/b/id/14351077-M.jpg"
+  },
+  {
+    "id": "34cf1686-2c1c-54da-9d45-e64fa270422f",
+    "title": "1984",
+    "author": "George Orwell",
+    "publishingDate": "1949-06-08",
+    "rating": 4.3,
+    "image": "https://covers.openlibrary.org/b/id/8579190-M.jpg"
+  },
+  {
+    "id": "a08ded46-92b0-52f5-bdd2-b7ccb700829b",
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "publishingDate": "1925-04-10",
+    "rating": 4.1,
+    "image": "https://covers.openlibrary.org/b/id/8432047-M.jpg"
+  },
+  {
+    "id": "820b51bc-1bcc-581a-88ae-f502e2cecd8b",
+    "title": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "publishingDate": "1813-01-28",
+    "rating": 4.6,
+    "image": "https://covers.openlibrary.org/b/id/9277716-M.jpg"
+  },
+  {
+    "id": "a9b525d4-0e89-5bae-a3dd-96dbad69f5d8",
+    "title": "The Catcher in the Rye",
+    "author": "J.D. Salinger",
+    "publishingDate": "1951-07-16",
+    "rating": 4.2,
+    "image": "https://covers.openlibrary.org/b/id/9273490-M.jpg"
+  },
+  {
+    "id": "a20f3897-5d05-5853-9441-b006748969b1",
+    "title": "To the Lighthouse",
+    "author": "Virginia Woolf",
+    "publishingDate": "1927-05-05",
+    "rating": 4.8,
+    "image": "https://covers.openlibrary.org/b/id/5312099-M.jpg"
+  },
+  {
+    "id": "a28963ee-6fc6-59be-a871-3cea2941deab",
+    "title": "The Hobbit",
+    "author": "J.R.R. Tolkien",
+    "publishingDate": "1937-09-21",
+    "rating": 4.9,
+    "image": "https://covers.openlibrary.org/b/id/13766603-M.jpg"
+  },
+  {
+    "id": "0b981848-fced-5024-821d-87aefdc85be1",
+    "title": "Moby-Dick",
+    "author": "Herman Melville",
+    "publishingDate": "1851-10-18",
+    "rating": 4.6,
+    "image": "https://covers.openlibrary.org/b/id/13551874-M.jpg"
+  },
+  {
+    "id": "dea10b2a-6cd3-5aea-bcd0-5ba478753740",
+    "title": "The Alchemist",
+    "author": "Paulo Coelho",
+    "publishingDate": "1988-06-01",
+    "rating": 4.4,
+    "image": "https://covers.openlibrary.org/b/id/10894253-M.jpg"
+  },
+  {
+    "id": "d1e665a0-6491-4054-bae9-2d1170b7a62f",
+    "title": "The Lord of the Rings",
+    "author": "J.R.R. Tolkien",
+    "publishingDate": "1954-07-29",
+    "rating": 4.7,
+    "image": "https://covers.openlibrary.org/b/id/12003171-M.jpg"
+  },
+  {
+    "id": "49315b18-27f0-4eae-b9c0-1a3a7332f401",
+    "title": "Harry Potter and the Philosopher's Stone",
+    "author": "J.K. Rowling",
+    "publishingDate": "1997-06-26",
+    "rating": 4.8,
+    "image": "https://covers.openlibrary.org/b/id/11416641-M.jpg"
+  },
+  {
+    "id": "7256b124-4a6a-4c5f-b9b9-d8be2e57dd85",
+    "title": "The Chronicles of Narnia",
+    "author": "C.S. Lewis",
+    "publishingDate": "1950-10-16",
+    "rating": 4.4,
+    "image": "https://covers.openlibrary.org/b/id/9185109-M.jpg"
+  },
+  {
+    "id": "0d9e62ea-7908-4eb5-bc4a-500d9af79a35",
+    "title": "The Da Vinci Code",
+    "author": "Dan Brown",
+    "publishingDate": "2003-03-18",
+    "rating": 4.1,
+    "image": "https://covers.openlibrary.org/b/id/12521602-M.jpg"
+  },
+  {
+    "id": "be0fcfd4-d524-47a5-8db5-4d2e0f0c9d42",
+    "title": "The Hunger Games",
+    "author": "Suzanne Collins",
+    "publishingDate": "2008-09-14",
+    "rating": 4.3,
+    "image": "https://covers.openlibrary.org/b/id/12646545-M.jpg"
+  },
+  {
+    "id": "94e1d5b2-5d7e-405b-b15d-2739d68b0a23",
+    "title": "The Shining",
+    "author": "Stephen King",
+    "publishingDate": "1977-01-28",
+    "rating": 4.2,
+    "image": "https://covers.openlibrary.org/b/id/12376585-M.jpg"
+  },
+  {
+    "id": "2a9eeb80-87a7-441c-9c13-45085556e3a4",
+    "title": "The Hitchhiker's Guide to the Galaxy",
+    "author": "Douglas Adams",
+    "publishingDate": "1979-10-12",
+    "rating": 4.5,
+    "image": "https://covers.openlibrary.org/b/id/12986869-M.jpg"
+  },
+  {
+    "id": "d079c4a4-b8f3-4f85-a9e1-4cc0f8bb1cbe",
+    "title": "The Book Thief",
+    "author": "Markus Zusak",
+    "publishingDate": "2005-03-14",
+    "rating": 4.5,
+    "image": "https://covers.openlibrary.org/b/id/11473055-M.jpg"
+  },
+  {
+    "id": "cbf1630a-5f4b-4b9a-9d79-8492ee8a9a4c",
+    "title": "Brave New World",
+    "author": "Aldous Huxley",
+    "publishingDate": "1932-01-01",
+    "rating": 4.0,
+    "image": "https://covers.openlibrary.org/b/id/8231823-M.jpg"
+  }
+]
